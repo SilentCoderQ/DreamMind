@@ -1,0 +1,9 @@
+{
+  "name": "dreammind",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DreamMind secure local server for dream analysis",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
